@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/files/
+
+Sitemap: https://aditya0241.github.io/sitemap.xml
